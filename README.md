@@ -1,7 +1,4 @@
 # License Plates System | English Version | Broke Protocol 1.39a
-An essential Broke Protocol plugin facilitating dynamic police roleplay by recording license plate information
-
-Please read these lines carefully:
 
 All the code found within this repository is the sole and exclusive intellectual property of Geekosaure. The development of this codebase has been made possible through the utilization of the API graciously provided by Nong Benz. It is crucial to emphasize that any unauthorized reproduction or redistribution of this plugin, regardless of alterations or modifications made to the source code, will be unequivocally construed as an egregious violation of intellectual property rights.
 
