@@ -6,4 +6,4 @@ In the event of unauthorized replication or distribution, appropriate measures, 
 
 We urge all members of the modding community to uphold the highest standards of ethical conduct and to refrain from engaging in any activities that undermine the integrity of intellectual property rights. Let us foster an environment of collaboration and mutual respect where creativity thrives and innovation flourishes.
 
-![Blue Vintage Address Street Sign Poster](https://github.com/Geekosaure-Ben/License-Plates-System-English-Version-Broke-Protocol-1.39a/assets/148076141/e002d008-218a-44a7-8f34-a3a256dad277)
+![LicensePlatesSystem](https://github.com/Geekosaure-Ben/License-Plates-System-English-Version-Broke-Protocol-1.39a/assets/148076141/a122168b-fba0-4fc7-8b74-af9395803c0f)
